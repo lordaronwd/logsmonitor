@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  color: white;
+  background-color: #222;
+  height: 100%;
+}
+
+.app-header {
+  height: 10%;
+  padding: 20px;
+}
+
+.config-link {
+  color: white;
+  text-decoration: none;
+}

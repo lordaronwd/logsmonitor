@@ -1,0 +1,19 @@
+.statistics {
+	margin: 30px auto;
+    width: 30%;
+    padding: 10px;
+	text-align: left;
+	font-size: 24px;
+}
+
+.statistics table {
+	width: 100%;
+}
+
+.statistics td {
+	width: 50%;
+}
+
+.statistics .counter-value {
+	text-align: right;
+}
